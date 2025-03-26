@@ -30,8 +30,8 @@ This is particularly useful for applications involving:
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/user-message-analyzer.git
-cd user-message-analyzer
+git clone https://github.com/stbedoya/Mental-help-triage-agent/
+cd Mental-help-triage-agent
 pip install -r requirements.txt
 ```
 
