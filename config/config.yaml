@@ -1,0 +1,12 @@
+project:
+  name: "help_agent"
+  version: "1.0.0"
+
+model:
+  path: "meta-llama/Meta-Llama-3-8B-Instruct"
+  temperature: 0.1
+  max_tokens: 100
+
+prompt:
+  path: "src/llm/prompts.json"
+  experiment_id: "experiment_1"
