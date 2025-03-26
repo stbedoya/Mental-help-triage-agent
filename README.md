@@ -1,8 +1,8 @@
-# 🧠 User Message Analyzer Agent 
+# Mental health triage agent
 
 A lightweight CLI tool powered by LLMs to analyze user-generated messages for **sentiment**, **response necessity**, and **crisis detection** — with a focus on grief and mental health support.
 
-## 🔍 What It Does
+## What It Does
 
 Given a user message, this tool uses an open source large language model to return a structured JSON analysis of:
 
@@ -18,14 +18,14 @@ This is particularly useful for applications involving:
 
 ---
 
-## 🚀 Usage
+## Usage
 
-### 🧾 Prerequisites
+### Prerequisites
 
 - Python 3.1+
 - GPU minimum requirement: 1 x 24GB GPU (e.g. NVIDIA RTX A6000, 3090, 4090, or better)
 
-### 📦 Installation
+### Installation
 
 Clone the repo and install dependencies:
 
