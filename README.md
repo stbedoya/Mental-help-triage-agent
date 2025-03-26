@@ -1,4 +1,4 @@
-# Mental health triage agent
+# Mental health triage LLM agent
 
 A lightweight CLI tool powered by LLMs to analyze user-generated messages for **sentiment**, **response necessity**, and **crisis detection** — with a focus on grief and mental health support.
 
